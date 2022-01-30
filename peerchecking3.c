@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 #include <math.h>
+
 
 void intrvl(float val)
 
