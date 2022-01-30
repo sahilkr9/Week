@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<math.h>
+
+int main(void)
+{
+    double sinValue, x;
+    printf("Enter the value to calculate sine : ");
+    scanf("%lf", &x);
+    sinValue = sin(x);
+    printf("The sin value of %lf is %lf", x, sinValue);
+
+    return 0;
+}
